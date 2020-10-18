@@ -1,0 +1,11 @@
+.my-name
+{
+    background: greenyellow;
+    color: red;
+}
+table,td,tr
+{
+	align-content: center;
+	border: 2px solid blue;
+	border-collapse: collapse;
+}
